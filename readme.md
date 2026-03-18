@@ -1,6 +1,16 @@
 ##Todo App
 
+<img width="1600" height="794" alt="image" src="https://github.com/user-attachments/assets/6cc8a0dd-844e-4f21-a9c5-2c3480ad03e6" />
+
+
 A simple full-stack To-Do Web Application with React frontend, Node.js + Express backend, and MySQL database. Users can create tasks, view the 5 most recent tasks, and mark tasks as completed.
+
+<img width="1600" height="746" alt="image" src="https://github.com/user-attachments/assets/c757cdef-996b-45fd-a31c-c3901a64ec71" />
+
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/6bdbb66e-eb5f-4b74-afbf-2f247a7fb78b" />
+
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/98cd972d-e5d7-404b-b33e-56c2dc510a1a" />
+
 
 ##Features
 
