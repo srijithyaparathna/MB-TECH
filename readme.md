@@ -30,6 +30,7 @@ Clone the repository:
 
 
 Manual Setup 
+
     Backend:
         cd backend
         npm install
@@ -41,13 +42,16 @@ Manual Setup
         npm run dev 
 
 Testing
+
     Backend Tests
         Setup:
             cd backend
             npm install --save-dev jest supertest
         run:
             npm test
+            
 Frontend Tests
+
         Setup (Vite + React):
             cd frontend
             npm install --save-dev vitest @testing-library/react @testing-library/jest-dom jsdom
